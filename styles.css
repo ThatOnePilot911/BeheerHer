@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.center-image {
+    width: 200px; /* Pas de grootte van de afbeelding aan indien nodig */
+}
+
+.center-text {
+    margin-top: 20px;
+    font-size: 24px;
+}
